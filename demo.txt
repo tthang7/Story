@@ -1,0 +1,21 @@
+total 12K
+drwxrwxr-x 2 tthang7 tthang7 4.0K Nov 27 09:14 123
+drwxrwxr-x 2 tthang7 tthang7 4.0K Nov 27 09:15 124
+drwxrwxr-x 3 tthang7 tthang7 4.0K Nov 27 09:17 a
+-rw-rw-r-- 1 tthang7 tthang7    0 Nov 28 03:35 demo.txt
+Hello Python
+123
+124
+a
+demo.txt
+de,o.txt
+.
+├── 123
+├── 124
+├── a
+│   └── b
+│       └── c
+├── demo.txt
+└── de,o.txt
+
+5 directories, 2 files
